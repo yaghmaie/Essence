@@ -4,6 +4,7 @@ description: Using 1Password's SSH Agent on Linux and tired of entering password
 tags: '1password, polkit, sshagent, authorization'
 canonical_url: null
 published: false
+id: 1629780
 ---
 
 If you use [1Password's SSH Agent](https://developer.1password.com/docs/ssh/agent/) to manage access to a lot of SSH keys on GNU/Linux, then you probably go through this process multiple times a day:
