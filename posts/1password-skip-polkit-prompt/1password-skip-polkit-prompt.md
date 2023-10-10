@@ -3,7 +3,7 @@ title: Skip Polkit prompt when authorizing SSH key access with 1Password
 description: Using 1Password's SSH Agent on Linux and tired of entering password frequently? Here's how to fix it.
 tags: '1password, polkit, sshagent, authorization'
 canonical_url: null
-published: false
+published: true
 id: 1629780
 ---
 
