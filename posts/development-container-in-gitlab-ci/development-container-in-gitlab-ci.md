@@ -6,6 +6,7 @@ tags: 'docker, gitlab, container, pipeline'
 canonical_url: null
 published: true
 id: 1642685
+date: '2023-10-22T17:32:08Z'
 ---
 
 One of the benefits of an automated build pipeline is reproducible outcomes. This alone has several other benefits such as more reasonable results, and less surprises. Ideally we want the exact same stuff every time we run the pipeline for a specific version of our code regardless of where we are executing it.
