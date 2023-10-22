@@ -4,7 +4,7 @@ description: Improve build quality without compromising speed with a development
 cover_image: ./docker_gitlab_run_cover.png
 tags: 'docker, gitlab, container, pipeline'
 canonical_url: null
-published: false
+published: true
 id: 1642685
 ---
 
