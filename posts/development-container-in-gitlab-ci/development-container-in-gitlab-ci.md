@@ -1,7 +1,7 @@
 ---
 title: Development container & Gitlab CI - Build better and faster
 description: Improve build quality without compromising speed with a development container in Gitlab CI
-cover_image: ./docker_gitlab_run.png
+cover_image: ./docker_gitlab_run_cover.png
 tags: 'docker, gitlab, container, pipeline'
 canonical_url: null
 published: false
