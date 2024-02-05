@@ -4,7 +4,7 @@ description: Never write the same test twice. Use rstest instead to make your te
 cover_image: ./reuse_tests_rust_cover.png
 tags: 'rust, testing, rstest, tdd'
 canonical_url: null
-published: false
+published: true
 id: 1752448
 ---
 
