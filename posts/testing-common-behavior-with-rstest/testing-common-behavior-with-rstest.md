@@ -5,6 +5,7 @@ cover_image: ./reuse_tests_rust_cover.png
 tags: 'rust, testing, rstest, tdd'
 canonical_url: null
 published: false
+id: 1752448
 ---
 
 Every programming language has its own ways to let us abstract details away, and in [Rust](https://www.rust-lang.org/) it's [traits](https://doc.rust-lang.org/book/ch10-02-traits.html) that give us the ability.
